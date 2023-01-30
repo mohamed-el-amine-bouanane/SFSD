@@ -1,0 +1,32 @@
+# depslib dependency file v1.0
+1612901309 source:c:\users\pc\onedrive\documents\new folder\bouanane_falek_g04\conio.c
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+	<windows.h>
+	<string.h>
+	"conio.h"
+
+1612982806 c:\users\pc\onedrive\documents\new folder\bouanane_falek_g04\conio.h
+	<stdio.h>
+
+1614286008 source:c:\users\pc\onedrive\documents\new folder\bouanane_falek_g04\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"conio.h"
+	"FONCTIONS.c"
+
+1614276978 c:\users\pc\onedrive\documents\new folder\bouanane_falek_g04\interfaces.h
+
+1614281858 source:c:\users\pc\onedrive\documents\new folder\bouanane_falek_g04\interfaces.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"conio.h"
+	"Interfaces.h"
+
+1614284811 c:\users\pc\onedrive\documents\new folder\bouanane_falek_g04\fonctions.c
+
